@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/rafxar/Competitiva/AtCoder Beginner Contest 210/A.cpp","tests":[{"id":1626523351388,"input":"5 3 20 15","output":"90"},{"id":1626523367934,"input":"10 10 100 1","output":"1000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rafxar/Competitiva/AtCoder Beginner Contest 210/A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CoverPoints","url":"/home/rafxar/Competitiva/Problemas semanales/CoverPoints.cpp","tests":[{"id":1624551341981,"input":"3\n1 1\n1 2\n2 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rafxar/Competitiva/Problemas semanales/CoverPoints.cpp","group":"local","local":true}
