@@ -1,1 +1,0 @@
-{"name":"Local: PerfectNumber","url":"/home/rafxar/Competitiva/PerfectNumber.cpp","tests":[{"id":1621513624035,"input":"1","output":"19"},{"id":1621513635298,"input":"2","output":"28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rafxar/Competitiva/PerfectNumber.cpp","group":"local","local":true}
